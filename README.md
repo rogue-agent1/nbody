@@ -1,9 +1,11 @@
-# nbody-sim
+# nbody
 
-N-body gravitational simulation. Zero-dependency, single-file Python CLI.
+nbody - N-body gravitational simulation with Verlet integration.
+
+Zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
-python3 nbody.py --help
+python3 nbody.py
 ```
